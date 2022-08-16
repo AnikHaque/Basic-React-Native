@@ -15,7 +15,7 @@ const App = () => {
 const styles = StyleSheet.create({
 
   textStyle:{
-    color:"red",
+    color:"green",
   }
 })
 
