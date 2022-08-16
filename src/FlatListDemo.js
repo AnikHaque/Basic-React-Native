@@ -6,7 +6,7 @@ const names=[
 name:"Ekram",
 },
   {
-name:"Ekram",
+name:"Haque",
 },
   {
 name:"Ekram",
