@@ -21,7 +21,7 @@ const names=[
   name:"Prema",
   },
   {
-    name:"Ekram",
+    name:"Mahmudul",
   },
     {
   name:"Haque",
