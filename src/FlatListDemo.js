@@ -22,7 +22,9 @@ name:"Ekram",
 },
 ]
     return (
-      <FlatList></FlatList>
+      <FlatList data={names} renderItem={(element)=>{
+return console.log(element);
+      }}></FlatList>
     )
 
 }
