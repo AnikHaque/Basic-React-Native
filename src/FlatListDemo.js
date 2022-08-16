@@ -15,7 +15,7 @@ const names=[
   name:"Sadia",
   },
     {
-  name:"Mahmudul",
+  name:"Tasnim",
   },
     {
   name:"Mahin",
