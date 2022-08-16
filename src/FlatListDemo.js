@@ -33,7 +33,7 @@ const names=[
   name:"Hasna",
   },
     {
-  name:"Mahmudul",
+  name:"Hena",
   },
     {
   name:"Mahin",
