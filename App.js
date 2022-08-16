@@ -5,7 +5,7 @@ import FlatListDemo from './src/FlatListDemo';
 const App = () => {
   return (
     <View>
-     
+      <Text style={styles.textStyle}>Hello React-Native</Text>
 
  <FlatListDemo></FlatListDemo>
     </View>
