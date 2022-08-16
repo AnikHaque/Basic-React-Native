@@ -12,13 +12,6 @@ const App = () => {
   );
 }
 
-const styles = StyleSheet.create({
 
-  textStyle:{
-    color:"green",
-    
-    
-  }
-})
 
 export default App;
