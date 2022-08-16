@@ -20,6 +20,24 @@ const names=[
     {
   name:"Mahin",
   },
+  {
+    name:"Ekram",
+  },
+    {
+  name:"Haque",
+  },
+    {
+  name:"Prema",
+  },
+    {
+  name:"Tasnim",
+  },
+    {
+  name:"Mahmudul",
+  },
+    {
+  name:"Mahin",
+  },
 ]
     return (
       <FlatList data={names} renderItem={(element)=>{
