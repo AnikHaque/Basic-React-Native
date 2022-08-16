@@ -12,7 +12,7 @@ const names=[
   name:"Anik",
   },
     {
-  name:"Tasnim",
+  name:"Sadia",
   },
     {
   name:"Mahmudul",
