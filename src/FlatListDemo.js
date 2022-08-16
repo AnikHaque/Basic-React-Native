@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import { FlatList, Text, View } from 'react-native'
+import React from 'react'
+import { FlatList, Text,  } from 'react-native'
 const FlatListDemo = () =>  {
 const names=[
   {
