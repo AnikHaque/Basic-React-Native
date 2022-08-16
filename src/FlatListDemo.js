@@ -1,11 +1,29 @@
 import React, { Component } from 'react'
-import { Text, View } from 'react-native'
+import { FlatList, Text, View } from 'react-native'
 const FlatListDemo = () =>  {
-
+const names=[
+  {
+name:"Ekram",
+},
+  {
+name:"Ekram",
+},
+  {
+name:"Ekram",
+},
+  {
+name:"Ekram",
+},
+  {
+name:"Ekram",
+},
+  {
+name:"Ekram",
+},
+]
     return (
-      <View>
-        <Text>FlatListDemo</Text>
-      </View>
+      <FlatList></FlatList>
     )
 
 }
+export default FlatListDemo;
