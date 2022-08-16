@@ -36,7 +36,7 @@ const names=[
   name:"Hena",
   },
     {
-  name:"Mahin",
+  name:"Israt",
   },
 ]
     return (
