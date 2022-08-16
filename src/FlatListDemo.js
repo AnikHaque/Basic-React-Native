@@ -3,7 +3,7 @@ import { FlatList, Text,  } from 'react-native'
 const FlatListDemo = () =>  {
 const names=[
   {
-    name:"Ekram",
+    name:"Ekramul",
   },
     {
   name:"Haque",
