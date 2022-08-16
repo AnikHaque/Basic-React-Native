@@ -9,7 +9,7 @@ const names=[
   name:"Haque",
   },
     {
-  name:"Prema",
+  name:"Anik",
   },
     {
   name:"Tasnim",
