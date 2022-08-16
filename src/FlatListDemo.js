@@ -15,10 +15,10 @@ name:"Prema",
 name:"Tasnim",
 },
   {
-name:"Ekram",
+name:"Mahmudul",
 },
   {
-name:"Ekram",
+name:"Mahin",
 },
 ]
     return (
