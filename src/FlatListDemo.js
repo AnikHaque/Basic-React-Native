@@ -35,9 +35,7 @@ const names=[
     {
   name:"Hena",
   },
-    {
-  name:"Israt",
-  },
+  
 ]
     return (
       <FlatList data={names} renderItem={(element)=>{
