@@ -29,10 +29,7 @@ const names=[
     {
   name:"Mahin",
   },
-    {
-  name:"Hasna",
-  },
- 
+  
   
 ]
     return (
