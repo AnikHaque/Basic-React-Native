@@ -2,9 +2,6 @@ import React from 'react'
 import { FlatList, Text,  } from 'react-native'
 const FlatListDemo = () =>  {
 const names=[
-  {
-    name:"Ekramul",
-  },
  
 
  
