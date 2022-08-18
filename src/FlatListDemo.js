@@ -23,9 +23,7 @@ const names=[
   {
     name:"Mahmudul",
   },
-    {
-  name:"Haque",
-  },
+  
  
   
   
