@@ -32,9 +32,7 @@ const names=[
     {
   name:"Hasna",
   },
-    {
-  name:"Hena",
-  },
+ 
   
 ]
     return (
