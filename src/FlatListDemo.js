@@ -20,24 +20,6 @@ const names=[
     {
   name:"Prema",
   },
-  {
-    name:"Ekramul",
-  },
-    {
-  name:"Haque",
-  },
-    {
-  name:"Anik",
-  },
-    {
-  name:"Sadia",
-  },
-    {
-  name:"Tasnim",
-  },
-    {
-  name:"Prema",
-  },
 
   
  
