@@ -35,9 +35,7 @@ const names=[
     {
   name:"Tasnim",
   },
-    {
-  name:"Prema",
-  },
+ 
   
   
  
